@@ -3,7 +3,7 @@ package studlist;
 
 /**
  * 
- * @author Sean Sanago 2023
+ * @author Sean Sanago feb 2 2023
  */
 public class Student {
     private int studId;
